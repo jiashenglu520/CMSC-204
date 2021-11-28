@@ -1,1 +1,1 @@
-# CMSC-204
+# Navigation application
